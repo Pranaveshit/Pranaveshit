@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pranavesh</h1>
 <h3 align="center">A passionate fullstack developer from India</h3> 
-<img align="right" alt="coding" width="400" src="https://www.google.com/search?sca_esv=1d98a800f4f22a39&rlz=1C1JJTC_enIN1093IN1093&sxsrf=ADLYWIIgSYah1eoYFxgsn3V53E-VPgqx3w:1715083696799&q=coding+gif+free+download&uds=ADvngMjjbalQSm1ssFsrYR-qKvNsGfNJBclHXK2gz5H5Hc4_K0qiZKiS6NYUG5ySWC_aLnMKPTiNknJZZ7LQ3MZ_1uRWncJst77O5GalR2yL352XjAImsLIGXdZJgAlJCxRuZP59zNgaJywmc-SijAs4xn6JJL2OdmoMVFRItQAORxQHn8wiVOJ1KUZHetDuMDZMU45WEwLa5klTu5FqOQSe2EWop5OU7_uQxMcTAe_AoVIogbsYgTK3jOA-RAb2G8Iax5hfb3g-E3FOK2e9BtmxcQqZY7EsXeaaNPTPDwV0J73-U3Lzif6n0g6XSkMPRrqh8LerT7WT&udm=2&prmd=ivsnbmtz&sa=X&ved=2ahUKEwimvYfUwPuFAxXNSGwGHTSRAtwQtKgLegQIDRAB&biw=1707&bih=820&dpr=1.13#vhid=6_7BCMkOF0X1vM&vssid=mosaic" >
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranaveshit&label=Profile%20views&color=0e75b6&style=flat" alt="pranaveshit" /> </p>
 
