@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pranavesh</h1>
 <h3 align="center">A passionate fullstack developer from India</h3> 
-<img  alt="coding" width="320" align = "center" src="https://media1.tenor.com/m/y2JXkY1pXkwAAAAC/cat-computer.gif" >
+<img  alt="coding" width="620" align = "center" src="https://media1.tenor.com/m/y2JXkY1pXkwAAAAC/cat-computer.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranaveshit&label=Profile%20views&color=0e75b6&style=flat" alt="pranaveshit" /> </p>
 
