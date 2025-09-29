@@ -5,8 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranaveshit&label=Profile%20views&color=0e75b6&style=flat" alt="pranaveshit" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranaveshit" alt="pranaveshit" /></a> </p>
+- 📄 I’m currently Pursuing Masters in Computer Science from BOWLING GREEN STATE UNIVERSITY 
 
-- 🔭 I’m currently working on [Aroundly](https://myaroundly.com/)
+- 🔭 I recently worked on [Aroundly](https://myaroundly.com/)
 
 - 🌱 I’m currently learning **Machine learning, Deep Learning**
 
